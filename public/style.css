@@ -1,3 +1,29 @@
 h1 {
-    color: grey;
+  color: grey;
+}
+
+input {
+  padding: 12px 6px;
+  min-width: 300px;
+  display: block;
+  margin: 10px 0px;
+  border: 2px solid #3f3fff;
+}
+
+button {
+  padding: 12px 6px;
+  min-width: 316px;
+  display: block;
+  margin: 10px 0px;
+  border: 2px solid #3f3fff;
+  background: #3f3fff;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#chat-window {
+  min-height: 10px;
+  margin: 40px 0px;
 }
